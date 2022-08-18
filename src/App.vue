@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <input type="button" v-on:click="getAllData" value="Click">
   </div>
 </template>
 
@@ -12,7 +13,20 @@ export default {
   name: 'App',
   components: {
     HelloWorld
-  }
+  },
+  data() {
+    return {
+      Mexico: null,
+    }
+  },
+  methods: {
+     getAllData() {
+      console.log("Testing")
+    }
+  },
+  mounted() {
+    this.Mexico = "Hola";
+  },
 }
 </script>
 
