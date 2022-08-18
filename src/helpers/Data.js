@@ -3,7 +3,7 @@ const API = "https://api.datos.gob.mx/v2/sinaica";
 
 export default class Data {
     constructor(){
-        this.name = "Muchos datos"
+        this.name = "Muchos datos";
     }
 
     getAllData(){
