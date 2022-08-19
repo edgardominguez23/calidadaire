@@ -1,0 +1,130 @@
+Año,Sector IPCC,Categoría IPCC,Sub Categoría IPCC,Fuente IPCC,Sub Fuente IPCC,CO2,CH4,N2O,HFC-23,HFC-410A,HFC-43-10mee,HFC-125,HFC-134,HFC-134a,HFC-404A,HFC-407C,HFC-152a,HFC-227ea,HFC-236fa,HFC-365mfc/227ea,HFC-365mfc,HFC-245fa,PFC-CF4,PFC-C2F6,SF6,CN
+2017,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1a Actividad principal producción de electricidad y calor,,"162,105.51",150.969,302.236,,,,,,,,,,,,,,,,,,24.393
+2017,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1b Refinación del petróleo,,"10,829.60",6.721,8.932,,,,,,,,,,,,,,,,,,0.666
+2017,1 Energía,1A Actividades de quema del combustible,1A1 Industrias de la energía,1A1c Manufactura de combustibles sólidos y otras industrias de la energía,,"23,237.72",12.278,13.296,,,,,,,,,,,,,,,,,,0.257
+2017,1 Energía,1A Actividades de quema del combustible,,1A2a Hierro y acero,,"5,511.84",2.789,2.839,,,,,,,,,,,,,,,,,,0.023
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2b Metales no ferrosos,,"1,818.90",1.229,1.788,,,,,,,,,,,,,,,,,,0.013
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2c Sustancias químicas,,"8,795.85",4.761,5.438,,,,,,,,,,,,,,,,,,0.031
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2d Pulpa, papel e imprenta",,"2,794.27",1.823,2.539,,,,,,,,,,,,,,,,,,0.044
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,"1A2e Procesamiento de alimentos, bebidas y tabaco",,"1,787.87",37.93,47.978,,,,,,,,,,,,,,,,,,30.641
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2f Minerales no metálicos,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2g Equipo de transporte,,464.958,0.275,0.345,,,,,,,,,,,,,,,,,,0.001
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2h Maquinaria,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2i Minería (con excepción de combustibles) y cantería,,"14,284.88",14.791,25.55,,,,,,,,,,,,,,,,,,0.089
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2j Madera y productos de la madera,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2k Construcción,,814.782,0.939,1.778,,,,,,,,,,,,,,,,,,0.004
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2l Textiles y cueros,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1A Actividades de quema del combustible,1A2 Industrias manufactura y de la construcción,1A2m Industria no especificada,,"46,487.09",83.777,115.782,,,,,,,,,,,,,,,,,,1.956
+2017,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3a Aviación civil,,"6,893.13",1.329,50.312,,,,,,,,,,,,,,,,,,0.098
+2017,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3b Autotransporte,,"155,672.92",334.782,"2,850.69",,,,,,,,,,,,,,,,,,30.286
+2017,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3c Ferrocarriles,,"2,125.31",3.39,221.106,,,,,,,,,,,,,,,,,,0.05
+2017,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3d Navegación marítima y fluvial,,"2,128.66",5.71,15.44,,,,,,,,,,,,,,,,,,0.071
+2017,1 Energía,1A Actividades de quema del combustible,1A3 Transporte,1A3e Otro transporte,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4a Comercial/institucional,,"4,989.05",10.398,12.745,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4b Residencial,,"18,088.96","2,142.06",272.798,,,,,,,,,,,,,,,,,,29.028
+2017,1 Energía,1A Actividades de quema del combustible,1A4 Otros sectores,1A4c Agropecuario/silvicultura/pesca/piscifactorías,,"10,179.28",38.577,21.643,,,,,,,,,,,,,,,,,,0.255
+2017,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1ai Minas subterráneas,0,"7,652.30",0,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1a Minería carbonífera y manejo del carbón,1B1aii Minas superficie,0,116.247,0,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B1 Combustibles sólidos,1B1b Combustión espontánea y vertederos para quema de carbón,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2a Petróleo,,"3,804.70","4,654.14",0,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2b Gas natural,,"1,247.24","7,684.46",0,,,,,,,,,,,,,,,,,,0
+2017,1 Energía,1B Emisiones fugitivas provenientes de la fabricación de combustibles,1B2 Petróleo y gas natural,1B2ab Quemado,1B2abii Quemado en petróleo y gas,"5,383.68","6,044.52",0,,,,,,,,,,,,,,,,,,2.275
+2017,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A1 Producción de cemento,,,"19,728.89",0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A2 Producción de cal,,,"3,831.05",0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A3 Producción de vidrio,,,558.251,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A4 Otros usos de carbonatos,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2A Industria de los minerales,2A5 Otros,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2B Industria química,2B1 Producción de amoniaco,,,846.446,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2B Industria química,2B2 Producción de ácido nítrico,,,0,0,508.005,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2B Industria química,2B3 Producción de ácido adípico,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2B Industria química,"2B4 Producción de caprolactama, glioxil y ácido glioxílico",,,0,0,168.383,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2B Industria química,2B5 Producción de carburo,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2B Industria química,2B6 Producción de dióxido de titanio,,,386.969,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2B Industria química,2B7 Producción de ceniza de sosa,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2B Industria química,2B8 Producción petroquímica y negro de humo,,,"2,026.45",272.081,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2B Industria química,2B9 Producción fluoroquímica,,,0,0,0,"1,804.83",,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2B Industria química,2B10 Otros,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2C Industria de los metales,2C1 Producción de hierro y acero,,,"12,951.18",0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2C Industria de los metales,2C2 Producción de ferroaleaciones,,,297.839,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2C Industria de los metales,2C3 Producción de aluminio,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2C Industria de los metales,2C4 Producción de magnesio,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2C Industria de los metales,2C5 Producción de plomo,,,126.371,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2C Industria de los metales,2C6 Producción de zinc,,,"1,154.88",0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2C Industria de los metales,2C7 Otros,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D1 Uso de lubricantes,,,65.53,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D2 Uso de la cera de parafina,,,12.9,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D3 Uso de solventes,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2D Uso de productos no energéticos de combustibles y de solvente,2D4 Otros,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2E Industria electrónica,2E1 Circuitos integrados o semiconductores,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2E Industria electrónica,2E2 Pantalla plana tipo TFT,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2E Industria electrónica,2E3 Células fotovoltaicas,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2E Industria electrónica,2E4 Fluido de transferencia térmica,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2E Industria electrónica,2E5 Otros,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2F Uso de productos sustitutos de las sustancias que agotan la capa de ozono,2F1 Refrigeración y aire acondicionado,,,0,0,0,,965.757,,,,"6,612.22","3,853.59",22.046,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2F Uso de productos sustitutos de las sustancias que agotan la capa de ozono,2F2 Agentes espumantes,,,0,0,0,,,,,0.285,3.773,,,,,,42.168,0.058,471.429,,,,0
+2017,2 Procesos industriales y uso de productos,2F Uso de productos sustitutos de las sustancias que agotan la capa de ozono,2F3 Protección contra incendios,,,0,0,0,,,,27.552,,,,,,31.057,51.915,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2F Uso de productos sustitutos de las sustancias que agotan la capa de ozono,2F4 Aerosoles,,,0,0,0,,,,,,391.202,,,499.838,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2F Uso de productos sustitutos de las sustancias que agotan la capa de ozono,2F5 Solventes,,,0,0,0,,,15.54,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2F Uso de productos sustitutos de las sustancias que agotan la capa de ozono,2F6 Otras aplicaciones,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G1 Equipos eléctricos,,,0,0,0,,,,,,,,,,,,,,,,,249.558,0
+2017,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G2 SF6 y PFC de otros usos de productos,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G3 N2O de usos de productos,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2G Manufactura y utilización de otros productos,2G4 Otros,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2H Otros,2H1 Industria de la pulpa y el papel,,,34.792,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2H Otros,2H2 Industria de la alimentación y las bebidas,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,2 Procesos industriales y uso de productos,2H Otros,2H3 Otros,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1a Bovino,,0,"51,167.33",0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1b Búfalos,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1c Ovinos,,0,"1,246.34",0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1d Caprino,,0,"1,221.52",0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1e Camello,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1f Caballos,,0,438.37,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1g Mulas y asnos,,0,109.666,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1h Porcinos,,0,340.767,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A1 Fermentación entérica,3A1i Otros  (especificar),,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2a Bovinos,,0,"8,456.08","3,737.28",,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2b Búfalos,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2c Ovinos,,0,37.368,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2d Caprino,,0,38.175,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2e Camello,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2f Caballos,,0,41.491,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Mulas y asnos,,0,10.616,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2h Porcinos,,0,"4,647.97",444.176,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2i Aves de corral,,0,167.34,364.921,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3A Ganado,3A2 Gestión del estiércol,3A2g Otros  (especificar),,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1a Tierras forestales que permanecen como tal,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B1 Tierra forestales,3B1b Tierras convertidas a tierras forestales,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2a Tierras de cultivo que permanecen como tal,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B2 Tierra de cultivo,3B2b Tierras convertidas a tierras de cultivo,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3a Praderas que permanecen como tal,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B3 Praderas,3B3b Tierras convertidas en praderas,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4a Humedales que permanecen como tal,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B4 Humedales,3B4b Tierras convertidas en humedales,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5a Asentamientos que permanecen como tal,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B5 Asentamientos ,3B5b Tierras convertidas en asentamientos,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6a Otras tierras que permanecen como tal,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3B Tierra,3B6 Otras tierras ,3B6b Tierras convertidas en otras tierras,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1a Emisiones de quemado de biomasa en tierras forestales,,0,546.089,223.481,,,,,,,,,,,,,,,,,,2.987
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1b Emisiones de quemado de biomasa en tierras de cultivo,,0,709.882,215.127,,,,,,,,,,,,,,,,,,3.916
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1c Emisiones de quemado de biomasa en tierras praderas,,0,518.115,360.212,,,,,,,,,,,,,,,,,,3.409
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C1 Emisiones de GEI por quemado de biomasa,3C1d Emisiones de quemado de biomasa en otras tierras,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C2 Encalado,,,47.792,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C3 Aplicación de urea,,,487.991,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C4 Emisiones directas de los N2O de los suelos gestionados,,,0,0,"23,062.89",,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C5 Emisiones indirectas de los N2O de los suelos gestionados,,,0,0,"6,990.79",,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C6 Emisiones indirectas de los N2O de la gestión del estiércol,,,0,0,917.168,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3C7 Cultivo del arroz,,,0,174.454,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3D1 Productos de madera recolectada,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,"3 Agricultura, silvicultura y otros usos de la tierra",3C Fuentes agregadas y fuentes de emisión no CO2 de la tierra,3D2 Otros (especificar),,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,4 Residuos,4A Eliminación de residuos sólidos,4A1 Sitios gestionados de eliminación de residuos (rellenos sanitarios),,,0,"17,124.89",0,,,,,,,,,,,,,,,,,,0
+2017,4 Residuos,4A Eliminación de residuos sólidos,4A2 Sitios no controlados de eliminación de residuos ,,,0,"1,378.48",0,,,,,,,,,,,,,,,,,,0
+2017,4 Residuos,4A Eliminación de residuos sólidos,4A3 Tiraderos a cielo abierto para eliminación de residuos,,,0,"4,258.22",0,,,,,,,,,,,,,,,,,,0
+2017,4 Residuos,4B Tratamiento biológico de los residuos sólidos,,,,0,229.255,162.73,,,,,,,,,,,,,,,,,,0
+2017,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C1 Incineración de residuos peligrosos industriales y biológico infeccioso,,,120.87,0.118,1.121,,,,,,,,,,,,,,,,,,0
+2017,4 Residuos,4C Incineración y quema a cielo abierto  de residuos,4C2 Quema a cielo abierto de residuos sólidos,,,706.508,620.311,135.48,,,,,,,,,,,,,,,,,,1.155
+2017,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D1 Tratamiento y eliminación de aguas residuales municipales,,,0,"4,220.80","1,951.80",,,,,,,,,,,,,,,,,,0
+2017,4 Residuos,4D Tratamiento y eliminación de aguas residuales,4D2 Tratamiento y eliminación de aguas residuales industriales,,,0,"16,590.98",0,,,,,,,,,,,,,,,,,,0
+2017,4 Residuos,4E Otros,,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Aviación internacional,,,"5,697.02",1.098,41.378,,,,,,,,,,,,,,,,,,0.092
+2017,Fines informativos (no se suman a las emisiones nacionales),Bunkers,Marítimo internacional,,,0,0,0,,,,,,,,,,,,,,,,,,0
+2017,Fines informativos (no se suman a las emisiones nacionales),Emisiones de CO2 por quema de biomasa,,,,0,0,0,,,,,,,,,,,,,,,,,,0

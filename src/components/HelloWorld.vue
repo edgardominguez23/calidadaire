@@ -5,9 +5,7 @@
 </template>
 
 <script>
-import axios from "axios";
-
-const API = "https://api.datos.gob.mx/v2/sinaica";
+import readXlsFile from "read-excel-file";
 
   export default {
     name: 'HelloWorld',
@@ -22,35 +20,9 @@ const API = "https://api.datos.gob.mx/v2/sinaica";
       getAllData(){
         console.log(this.data.length);
       },
-      async getDataFromApi(numPage) {
-        for(let i = 1; i <= numPage; i++){
-          await axios.get(`${API}?page=${i}`)
-            .then(
-              response => (
-                this.data.push(response.data.results)
-              ));
-
-          if(i == 100){
-            break;
-          }
-        }
-      },
-      sortData(numPage){ 
-        for(let i = 1; i <= numPage; i++){
-          this.mexico.push(this.data[i])
-        }
-      }
     },
-    async mounted () {
-      await axios.get(API)
-        .then(
-          response => (
-            this.pagination = response.data.pagination
-        ));
+    mounted() {
 
-      const numPage = Math.ceil(this.pagination.total / this.pagination.pageSize);
-
-      this.getDataFromApi(numPage);
     }
   }
 </script>
